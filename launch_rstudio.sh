@@ -1,3 +1,4 @@
+#!/bin/bash
 WORKDIR=$(pwd)/..
 
 docker run --rm -e PASSWORD=password \
